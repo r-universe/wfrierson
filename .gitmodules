@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "wmm"]
+	path = wmm
+	url = https://github.com/wfrierson/wmm
+	shallow = true
+	registered = true
